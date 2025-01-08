@@ -34,40 +34,6 @@
 
 ---
 
-## 🛠️ **Installation** :
-
-Clonez ce dépôt et ouvrez `index.html` dans votre navigateur pour commencer à jouer !
-
-```bash
-git clone https://github.com/yourusername/SingularityExpansion.git
-cd SingularityExpansion
-open index.html
-```
-
----
-
-## 🎮 **Contribuer** :
-
-1. Fork ce dépôt.
-2. Créez une branche pour vos nouvelles fonctionnalités (`git checkout -b feature/your-feature`).
-3. Commitez vos changements (`git commit -am 'Ajout de nouvelles fonctionnalités'`).
-4. Poussez à votre branche (`git push origin feature/your-feature`).
-5. Ouvrez une **pull request**.
-
----
-
-## 🌐 **Contact** :
-
-Pour toutes questions ou suggestions, n'hésitez pas à me contacter à l'adresse suivante :  
-📧 **email@example.com**
-
----
-
-## 📝 **License** :
-
-Ce projet est sous la **MIT License** - voir le fichier [LICENSE](LICENSE) pour plus d'informations.
-
----
 
 ### 🧑‍💻 **Suivez le projet**  
 N'oubliez pas de **star** ce projet pour suivre son évolution ! ⭐  
